@@ -1,1 +1,95 @@
+These are the Materials For the Dartmouth Course CHEM101.6 "Computational Methods in Chemistry and Biophysics".   
+
+We utilized the Zuckerman's "Statistical Physics of Biomolecules" as our primary textbook for this course. 
+
+The course was structured with to have a 1.5 hour lecture and a 1.5 hour interactive jupyter notebook coding lab each week.
+
+This repo contains jupyter notebooks for the 6 in class execrcises, and links to the recordings of 7 1.5 hour lectures.  
+
+Each exercise had an in class demo portion, where I completed a portion of the notebooks interactively with the students, but I don't have video for many of these classes.
+
+For some exercises, I have posted a second notebook that has the solutions to the classroom activities completed.  A few exercises have "Instructor Solutions" available as well.
+
+
+
+Lecture 1 (Force Field & MD Basics) 
+
+Lecture 1 Notes: 
+https://www.dropbox.com/s/8strabjkktz78qc/CHEM101.6_W22_Lecture1_1.11.22.pdf?dl=0
+https://www.dropbox.com/s/a92l53671ybouyt/CHEM101.6_W22_Lecture1_1.11.22.pptx?dl=0
+
+Lecture 1 Video: 
+https://dartmouth.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6edd9f5a-7432-4964-b8d5-ae1a01642550
+
+Exercise 1:  (OpenMM Simulations of Butane, MD Traj Basics, Concepts From Zuckerman Chapters 1-2)
+https://github.com/paulrobustelli/CHEM101.6/blob/main/Chem101.6_Project1_Classroom_Solutions_1.13.22.ipynb
+
+Exercise 1 Solutions:
+https://github.com/paulrobustelli/CHEM101.6/blob/main/Chem101.6_Project1_Classroom_Solutions_1.13.22.ipynb https://github.com/paulrobustelli/python_demos/blob/main/Chem101.6_Project1_Instructor_Solutions.ipynb
+
+Lecture 2 (MD & Protein Structure Basics)
+
+Lecture 2 Notes:
+https://www.dropbox.com/s/tg7rjfhh12m85jv/CHEM101.6_W22_Lecture2_1.18.22.pdf?dl=0
+https://www.dropbox.com/s/uchtd3cq72ie8hp/CHEM101.6_W22_Lecture2_1.18.22.pptx?dl=0
+
+Lecture 2 Video:
+part 1: https://dartmouth.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=eb6b62f7-bb66-4163-9f45-ae210161da2d
+part 2: https://dartmouth.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b0302863-e828-4682-aea9-ae210162084f
+
+Exercise 2 (VMD & Protein Dynamics Basics):
+https://github.com/paulrobustelli/CHEM101.6/blob/main/CHEM101.6_Project2_Students.ipynb
+
+Exercise 2 Class Portion: 
+https://dartmouth.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e018e7cd-110a-4735-9552-ae2301664532
+
+Lecture 3 (Topics From Zuckerman Chapters 1-4) 
+
+Lecture 3 Notes:
+With Space for additional note taking:
+https://www.dropbox.com/s/0lf0kaqgrc7p605/CHEM101.6_W22_Lecture3_1.25.22_blanks.pdf?dl=0
+https://www.dropbox.com/s/hpnqc2eb4g0f5fi/CHEM101.6_W22_Lecture3_1.25.22_blanks.pptx?dl=0
+
+Additional notes filled in:
+https://www.dropbox.com/s/ph0ml80e3gasmjq/CHEM101.6_W22_Lecture3_1.25.22_notes.pdf?dl=0
+https://www.dropbox.com/s/s62s5qqxnowuazb/CHEM101.6_W22_Lecture3_1.25.22_notes.pptx?dl=0
+
+Lecture 3 Video:
+https://dartmouth.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=57c45286-53fc-4388-9de8-ae28017044cc
+
+Exercise 3 (Ubiquitin Dynamics):
+https://github.com/paulrobustelli/CHEM101.6/blob/main/CHEM101.6_Project3_UBQ_Students.ipynb
+
+Exercise 3: Solutions:
+https://github.com/paulrobustelli/python_demos/blob/main/CHEM101.6_Project3_Instructor.ipynb
+
+
+Lecture 4 (Topics From Zuckerman Chapters 3-4, Protein Folding & Intrinsically Disordered Proteins)
+
+Lecture 4 Notes: 
+https://www.dropbox.com/s/wtf0jmovn8d5yhn/CHEM101.6_W22_Lecture4_2.1.22.pdf?dl=0
+https://www.dropbox.com/s/45eb3qir98gw6st/CHEM101.6_W22_Lecture4_2.1.22.pptx?dl=0
+Lecture 4 Video 
+
+https://dartmouth.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f5449522-05ee-4b71-916a-ae2f01659ffb
+Exercise 4: 
+
+Lecture 5 (Protein Structure and Dynamics from NMR)
+https://dartmouth.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d8a138fa-7e53-4b6e-9d28-ae3601686899
+
+Lecture 6 (Enhanced Sampling - Replica Exchange & Metadynamics):
+https://dartmouth.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0316c5e6-6121-4483-a114-ae3d0166404f
+Exercise 5 (Metadynamics): 
+https://github.com/paulrobustelli/CHEM101.6/blob/main/CHEM101.6_Project5_MetaDynamics_aladipeptide_student.ipynb
+https://github.com/paulrobustelli/CHEM101.6/blob/main/Project5_MetaDynamics_aladipeptide_student.ipynb
+Exercise 5 Class Solutions: 
+https://github.com/paulrobustelli/CHEM101.6/blob/main/Project5_MetaDynamics_aladipeptide_class_solutions.ipynb 
+
+Exercise 6: Replica Exchange & Statistical Errors:
+https://github.com/paulrobustelli/CHEM101.6/blob/main/Project6_repex_blockerrors.ipynb
+Exercise 6 Demo (Replica Exchange & Statistical Errors):
+https://dartmouth.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cb86ff15-2c80-47a5-9e77-ae4601678547
+
+Lecture 7 (Water/Solvation & Ligand Binding) 
+https://dartmouth.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c8c0a806-81b2-4831-839c-ae4b016e0b72
 
