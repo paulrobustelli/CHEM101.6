@@ -1,0 +1,28 @@
+Hello Students!
+
+
+
+The textbook for the course will be "Statistical Physics of Biomolecules: An Introduction" by Zuckerman. Its available for purchase as an e-book for $34 on amazon:
+https://www.amazon.com/Statistical-Physics-Biomolecules-Daniel-Zuckerman-ebook-dp-B005H6YEBI/dp/B005H6YEBI/ref=mt_other?_encoding=UTF8&me=&qid=
+
+The format of the course will be that Tuesdays will be predominantly lectures, and Thursdays will be predominantly interactive coding/project sessions, where we will perform calculations and start analyzing simulation datasets. As the term progresses, the goal is that the projects will become progressively less like exercises, and more like independent research projects, culminating in a final independent research project of your choosing for the end of the term.  
+The course will be taught in python, using either google collab or jupyter notebooks, and initial assessments will be based on python code turned in each Monday. The idea is that we will start each weeks project on Thursday, and then you will perform additional calculations and analyses over the weekend, and then upload completed google collab notebook or a jupyter notebook to a github page.  
+Therefore, to get set-up for the course, this week I would like everyone to:
+
+1.) Create a github account and create a public repository for CHEM101.6
+2.) Install anaconda navigator (a python package manager) on your laptop:
+3.) Read chapters 1+2 in Zuckerman 
+
+You can download and install anaconda navigator here:
+https://docs.anaconda.com/anaconda/navigator/ 
+
+And here is a more detailed walkthrough:
+https://education.molssi.org/getting-started-computational-chemistry/05-anaconda/index.html
+
+If you would prefer to work exclusively on the cloud in google colaboratory (which may be preferable if you don't think your laptop is up for running calculations), you can set up your google account so that you can read input files form and safe output files to your google drive.
+Here is an example you can use to troubleshoot this (copy it to your own google account and then set up the link to your google drive)
+
+https://colab.research.google.com/github/paulrobustelli/CHEM101.6/blob/main/Butane_OpenMM.ipynb
+
+I adapted it from this github repo (https://github.com/pablo-arantes/Making-it-rain) and paper (https://pubs.acs.org/doi/10.1021/acs.jcim.1c00998) and we'll be building up to protein simulations set-ups they are using later in the term, after analyzing some butane simulations to death to illustrate many of the key concepts discussed in Zuckerman.   
+I'll publish an official syllabus later this week.   The current plan is that the weekly assignments will be worth ~50% of your final grade in the course, participation in lectures + slack (demonstrating an engagement with the assigned reading and an attempt to make progress on the weekly projects and participate in group discussions about writing and debugging code during interactive problem sessions and over slack) will be worth ~20% of your grade, and the final project will be worth ~30% of your grade.
