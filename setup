@@ -26,3 +26,9 @@ https://colab.research.google.com/github/paulrobustelli/CHEM101.6/blob/main/Buta
 
 I adapted it from this github repo (https://github.com/pablo-arantes/Making-it-rain) and paper (https://pubs.acs.org/doi/10.1021/acs.jcim.1c00998) and we'll be building up to protein simulations set-ups they are using later in the term, after analyzing some butane simulations to death to illustrate many of the key concepts discussed in Zuckerman.   
 I'll publish an official syllabus later this week.   The current plan is that the weekly assignments will be worth ~50% of your final grade in the course, participation in lectures + slack (demonstrating an engagement with the assigned reading and an attempt to make progress on the weekly projects and participate in group discussions about writing and debugging code during interactive problem sessions and over slack) will be worth ~20% of your grade, and the final project will be worth ~30% of your grade.
+
+
+Here are additional python resources if anyone needs a refresher or if you haven't used jupyter notebooks before and want to get some practice in:
+https://education.molssi.org/python_scripting_cms/
+https://education.molssi.org/python-data-analysis/
+https://education.molssi.org/python-visualization/chapters/setup.html
